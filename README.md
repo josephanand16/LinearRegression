@@ -12,3 +12,4 @@ Q = sum(intercept + slope*xcap(i))
 #### 4. Solving for slope, it can be observed that slope = Covariance(X,Y)/Variance(X^2)
 #### 5. Also from the solution, the mean passes through the line.
 #### 6. Therefore substituting the mean values along with slope gives the intercept value.
+![A regression Equation](regression.jpg)
