@@ -1,4 +1,4 @@
-# LinearRegression
+# Linear Regression
 A simple code to explain regression
 
 ### The problem to be solved: Probabilistic data to be represented as a deterministic equation.
@@ -12,4 +12,6 @@ Q = sum(intercept + slope*xcap(i))
 #### 4. Solving for slope, it can be observed that slope = Covariance(X,Y)/Variance(X^2)
 #### 5. Also from the solution, the mean passes through the line.
 #### 6. Therefore substituting the mean values along with slope gives the intercept value.
+
+### The output of a Linear regression function which will be printed by the python script when run.
 ![A regression Equation](regression.jpg)
