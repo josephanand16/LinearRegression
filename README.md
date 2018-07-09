@@ -1,6 +1,18 @@
 # Linear Regression
 A simple code to explain regression
 
+## Terms and their meanings:
+### Covariance : 
+#### Covariance is a measure of the joint variability of two random variables
+### Variance : 
+#### Variance is the expectation of the squared deviation of a random variable from its mean
+### Mean :
+#### The mean is the average of all numbers
+### Slope :
+#### The slope or gradient of a line is a number that describes both the direction and the steepness of the line
+### Intercept :
+#### The point where the line touches the 'Y' axis.
+
 ### The problem to be solved: Probabilistic data to be represented as a deterministic equation.
 #### Linear regression addresses the above problem. We can represent probabilitic data as a deterministic equation. The output is based on the statistical information of the dependent and Independent variables.
 
